@@ -1,8 +1,8 @@
 # EloR — International Rugby Rating System & Dashboard
 
-A custom Elo-based rating system for international rugby union, built and published during the Northwestern MS programme. Covers 9,000+ matches from 1890 to present.
+Elo-based rating system for international rugby union. Covers matches from 1890 to present. Includes a Streamlit dashboard and CLI predictor.
 
-Methodology published: [Northwestern MSIA Blog, January 2019](https://sites.northwestern.edu/msia/2019/01/25/introducing-a-new-rating-system-for-world-rugby-union-based-on-the-elo-rating-system-the-elor-elo-rugby/)
+Publication: [Northwestern MSIA Blog, January 2019](https://sites.northwestern.edu/msia/2019/01/25/introducing-a-new-rating-system-for-world-rugby-union-based-on-the-elo-rating-system-the-elor-elo-rugby/)
 
 ## Files
 
@@ -46,38 +46,36 @@ pip install -r requirements.txt
 
 ## Execution Order
 
-Run these steps in sequence. Steps 1–4 only need to be re-run when you want to refresh the data.
+Run these steps in sequence. Steps 1–3 only need to be re-run when you want to refresh the data.
 
-**Step 1 — Fetch latest match results and recalculate ELO ratings:**
+> All scripts must be run from the `ELOR/` directory.
+
+**Step 1 — Fetch latest match results:**
 ```bash
-python update_data.py
+python fetch_results.py
 ```
-Outputs: `Datasets/ELO.csv`, `Datasets/get_rank.csv`, `Datasets/performance.csv`, `Datasets/fixtures.csv`
+Appends new matches from the World Rugby API to `Datasets/fixtures.csv`.
+Use `python fetch_results.py --replace` for a full rebuild from scratch.
 
-**Step 2 — Build ELO history for the time-series chart:**
+**Step 2 — Recalculate ELO ratings:**
+Open `main.ipynb` and run all cells.
+Outputs: `Datasets/ELO.csv`, `Datasets/get_rank.csv`, `Datasets/performance.csv`, `Datasets/winper.csv`
+
+> `update_data.py` runs Step 1 automatically and then prints a reminder to run main.ipynb.
+
+**Step 3 — Build dashboard data files:**
 ```bash
-python elo_over_time.py
+python elo_over_time.py   # Outputs: elo_history.csv
+python era_comparison.py  # Outputs: era_rankings.csv
+python upsets.py          # Outputs: upsets.csv
 ```
-Outputs: `elo_history.csv`
 
-**Step 3 — Build era rankings:**
-```bash
-python era_comparison.py
-```
-Outputs: `era_rankings.csv`
-
-**Step 4 — Build upsets table:**
-```bash
-python upsets.py
-```
-Outputs: `upsets.csv`
-
-**Step 5 — Launch the dashboard:**
+**Step 4 — Launch the dashboard:**
 ```bash
 streamlit run dashboard.py
 ```
 
-**Optional — Predict a match from the command line (no dashboard needed):**
+**Optional — Predict a match from the command line:**
 ```bash
 python predictor.py --home "New Zealand" --away "South Africa"
 python predictor.py --home "Ireland" --away "England" --neutral

@@ -1,6 +1,6 @@
 # Super Rugby Match Prediction & Spread Model
 
-End-to-end ML pipeline for predicting Super Rugby match outcomes and point spreads. Covers 2015–2026 season data, backtested against real bookmaker odds.
+Match outcome and point spread prediction for Super Rugby (2015–2026). Includes backtesting against bookmaker odds.
 
 ## Files
 
@@ -45,13 +45,13 @@ End-to-end ML pipeline for predicting Super Rugby match outcomes and point sprea
 | `spread_summary.csv` | Spread model summary |
 | `feature_importance.csv` | XGBoost feature importances |
 
-## Features Engineered
-- ELO rating differential and implied win probability
+## Features
+- ELO differential and implied win probability
 - Form: 5-game and 10-game win rates
 - Momentum: ELO change over last 5 games
 - Head-to-head win rate (last 10 meetings)
-- Competition importance weighting
-- Experience metrics
+- Competition weight (World Rugby rankings weight)
+- Games played (home and away)
 
 ## Setup
 

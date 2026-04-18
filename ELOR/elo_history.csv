@@ -87,6 +87,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,ASM Clermont Auvergne,1567.2
 2026-03-21,2026,ASM Clermont Auvergne,1550.2
 2026-03-29,2026,ASM Clermont Auvergne,1519.1
+2026-04-18,2026,ASM Clermont Auvergne,1557.7
 1946-03-02,1946,Aberavon,1491.6
 1976-10-06,1976,Aberavon,1461.3
 1976-11-01,1976,Aberavon,1506.3
@@ -137,6 +138,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Agen,1550.9
 2026-03-06,2026,Agen,1578.4
 2026-03-27,2026,Agen,1503.8
+2026-04-16,2026,Agen,1548.4
 2024-01-14,2024,Albania,1394.2
 2024-03-24,2024,Albania,1275.0
 2025-03-15,2025,Albania,1340.4
@@ -307,6 +309,7 @@ Date,Year,Team,ELO
 1982-09-21,1982,Anglo-Scots,1523.3
 1987-09-19,1987,Anglo-Scots,1577.7
 2026-03-28,2026,Anthem Rugby Carolina,1564.0
+2026-04-12,2026,Anthem Rugby Carolina,1592.5
 2012-11-06,2012,Apia,1519.0
 1992-10-07,1992,Aquitaine XV,1495.0
 1993-10-16,1993,Aquitaine XV,1491.5
@@ -403,8 +406,8 @@ Date,Year,Team,ELO
 1971-07-14,1971,Argentina,1821.2
 1971-07-17,1971,Argentina,1760.7
 1971-07-21,1971,Argentina,1773.4
-1971-07-28,1971,Argentina,1814.0
 1971-07-28,1971,Argentina,1768.1
+1971-07-28,1971,Argentina,1814.0
 1971-07-31,1971,Argentina,1794.7
 1971-08-03,1971,Argentina,1794.7
 1971-08-07,1971,Argentina,1827.7
@@ -1194,6 +1197,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Aurillac,1458.8
 2026-03-06,2026,Aurillac,1472.9
 2026-03-27,2026,Aurillac,1437.8
+2026-04-17,2026,Aurillac,1413.2
 1899-06-24,1899,Australia,1583.2
 1899-07-22,1899,Australia,1554.8
 1899-08-05,1899,Australia,1548.6
@@ -2457,6 +2461,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Aviron Bayonnais,1302.7
 2026-03-21,2026,Aviron Bayonnais,1352.8
 2026-03-28,2026,Aviron Bayonnais,1418.7
+2026-04-18,2026,Aviron Bayonnais,1370.6
 2005-04-16,2005,Azerbaijan,1389.8
 2005-04-30,2005,Azerbaijan,1396.2
 2005-10-29,2005,Azerbaijan,1270.3
@@ -2678,6 +2683,7 @@ Date,Year,Team,ELO
 2026-03-08,2026,Bath Rugby,1745.1
 2026-03-21,2026,Bath Rugby,1775.3
 2026-03-28,2026,Bath Rugby,1788.6
+2026-04-18,2026,Bath Rugby,1805.3
 1921-08-24,1921,Bay of Plenty,1492.8
 1949-08-20,1949,Bay of Plenty,1450.2
 1951-07-28,1951,Bay of Plenty,1416.7
@@ -2941,6 +2947,8 @@ Date,Year,Team,ELO
 2026-02-28,2026,Benetton Rugby,1548.7
 2026-03-21,2026,Benetton Rugby,1590.4
 2026-03-27,2026,Benetton Rugby,1574.6
+2026-04-12,2026,Benetton Rugby,1557.6
+2026-04-18,2026,Benetton Rugby,1469.4
 2005-05-28,2005,Benin,1500.0
 2005-06-02,2005,Benin,1464.2
 2005-06-05,2005,Benin,1428.9
@@ -3038,6 +3046,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Beziers,1470.4
 2026-03-06,2026,Beziers,1416.3
 2026-03-27,2026,Beziers,1491.0
+2026-04-17,2026,Beziers,1474.7
 2025-02-06,2025,Biarritz Olympique,1419.2
 2025-02-14,2025,Biarritz Olympique,1412.6
 2025-02-21,2025,Biarritz Olympique,1393.2
@@ -3074,6 +3083,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Biarritz Olympique,1393.3
 2026-03-06,2026,Biarritz Olympique,1453.0
 2026-03-27,2026,Biarritz Olympique,1488.1
+2026-04-16,2026,Biarritz Olympique,1443.4
 1956-09-04,1956,Birkenhead Park,1539.1
 2024-12-07,2024,Black Lion,1516.9
 2024-12-15,2024,Black Lion,1463.2
@@ -3103,6 +3113,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Black Rams Tokyo,1605.3
 2026-03-21,2026,Black Rams Tokyo,1582.7
 2026-03-29,2026,Black Rams Tokyo,1613.1
+2026-04-17,2026,Black Rams Tokyo,1653.8
 1905-11-04,1905,Blackheath,1488.3
 1997-11-18,1997,Blackheath,1488.3
 1958-11-04,1958,Blackrock,1453.9
@@ -3139,6 +3150,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Blues,1658.8
 2026-03-21,2026,Blues,1698.4
 2026-03-28,2026,Blues,1712.6
+2026-04-17,2026,Blues,1721.6
 2012-03-09,2012,Blues Development XV,1524.6
 2012-03-13,2012,Blues Development XV,1507.0
 2013-03-18,2013,Blues Development XV,1474.6
@@ -3567,6 +3579,7 @@ Date,Year,Team,ELO
 2026-03-01,2026,Bristol Bears,1524.6
 2026-03-21,2026,Bristol Bears,1515.4
 2026-03-28,2026,Bristol Bears,1472.6
+2026-04-17,2026,Bristol Bears,1537.6
 1905-09-23,1905,Bristol Rugby,1459.9
 1997-10-29,1997,Bristol Rugby,1551.1
 1896-07-11,1896,British & Irish Lions,1543.4
@@ -4141,6 +4154,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Brumbies,1544.1
 2026-03-20,2026,Brumbies,1605.8
 2026-03-27,2026,Brumbies,1570.7
+2026-04-18,2026,Brumbies,1512.7
 2011-02-19,2011,Brumby Runners,1549.8
 2011-02-23,2011,Brumby Runners,1549.8
 2011-02-28,2011,Brumby Runners,1580.3
@@ -4331,6 +4345,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Bulls,1559.6
 2026-03-20,2026,Bulls,1613.8
 2026-03-28,2026,Bulls,1630.9
+2026-04-17,2026,Bulls,1660.6
 2004-06-07,2004,Burkina Faso,1419.2
 2005-05-28,2005,Burkina Faso,1475.6
 2005-06-02,2005,Burkina Faso,1533.8
@@ -4408,6 +4423,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,CA Brive,1550.8
 2026-03-05,2026,CA Brive,1635.5
 2026-03-27,2026,CA Brive,1669.8
+2026-04-17,2026,CA Brive,1694.3
 2013-06-02,2013,CONSUR XV,1497.4
 1988-10-18,1988,CS Bourgoin-Jallieu,1548.5
 1981-07-30,1981,Cairns,1450.5
@@ -4434,6 +4450,7 @@ Date,Year,Team,ELO
 1985-05-22,1985,Calgary,1475.6
 1954-03-20,1954,California,1491.5
 2026-03-28,2026,California Legion,1436.0
+2026-04-12,2026,California Legion,1396.1
 2006-06-27,2006,Cambodia,1550.0
 2006-06-29,2006,Cambodia,1602.5
 2006-07-01,2006,Cambodia,1623.9
@@ -4964,6 +4981,7 @@ Date,Year,Team,ELO
 2026-03-06,2026,Capibaras XV,1561.5
 2026-03-14,2026,Capibaras XV,1571.9
 2026-03-21,2026,Capibaras XV,1512.4
+2026-04-13,2026,Capibaras XV,1557.0
 2025-08-29,2025,Carcassonne,1455.6
 2025-09-05,2025,Carcassonne,1474.8
 2025-09-12,2025,Carcassonne,1434.4
@@ -4988,6 +5006,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Carcassonne,1372.6
 2026-03-06,2026,Carcassonne,1345.2
 2026-03-27,2026,Carcassonne,1333.4
+2026-04-17,2026,Carcassonne,1321.4
 1905-12-26,1905,Cardiff,1497.4
 1907-01-01,1907,Cardiff,1604.6
 1912-12-21,1912,Cardiff,1600.9
@@ -5050,6 +5069,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Cardiff Rugby,1552.5
 2026-03-20,2026,Cardiff Rugby,1498.4
 2026-03-27,2026,Cardiff Rugby,1481.2
+2026-04-18,2026,Cardiff Rugby,1510.3
 1983-05-21,1983,Castille / Leon XV,1485.1
 2024-09-07,2024,Castres Olympique,1521.8
 2024-09-14,2024,Castres Olympique,1501.6
@@ -5101,6 +5121,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Castres Olympique,1518.6
 2026-03-21,2026,Castres Olympique,1462.0
 2026-03-28,2026,Castres Olympique,1471.0
+2026-04-18,2026,Castres Olympique,1444.8
 1997-12-13,1997,Cayman Islands,1423.8
 2001-11-20,2001,Cayman Islands,1483.9
 2001-11-22,2001,Cayman Islands,1465.7
@@ -5170,6 +5191,7 @@ Date,Year,Team,ELO
 2026-01-18,2026,Cheetahs,1338.0
 1905-12-06,1905,Cheltenham,1493.5
 1905-12-09,1905,Cheshire,1492.5
+2026-04-12,2026,Chicago Hounds,1539.9
 2016-06-14,2016,Chiefs,1637.6
 2017-06-20,2017,Chiefs,1632.7
 2025-02-15,2025,Chiefs,1684.5
@@ -5195,6 +5217,7 @@ Date,Year,Team,ELO
 2026-03-06,2026,Chiefs,1742.0
 2026-03-20,2026,Chiefs,1680.3
 2026-03-28,2026,Chiefs,1696.0
+2026-04-18,2026,Chiefs,1750.6
 2011-03-04,2011,Chiefs Development XV,1540.5
 2011-03-09,2011,Chiefs Development XV,1597.4
 2011-03-14,2011,Chiefs Development XV,1577.6
@@ -5476,8 +5499,8 @@ Date,Year,Team,ELO
 2019-06-23,2019,China,1298.4
 2019-06-26,2019,China,1328.5
 1969-03-15,1969,Chinese Taipei,1458.8
-1976-11-12,1976,Chinese Taipei,1365.4
 1976-11-12,1976,Chinese Taipei,1426.3
+1976-11-12,1976,Chinese Taipei,1365.4
 1980-11-09,1980,Chinese Taipei,1400.3
 1980-11-11,1980,Chinese Taipei,1369.3
 1980-11-13,1980,Chinese Taipei,1425.1
@@ -5607,6 +5630,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Cobras,1339.2
 2026-03-22,2026,Cobras,1311.6
 2026-03-27,2026,Cobras,1290.3
+2026-04-12,2026,Cobras,1279.9
 2001-10-06,2001,Colombia,1436.6
 2001-11-03,2001,Colombia,1302.5
 2001-11-17,2001,Colombia,1236.8
@@ -5718,6 +5742,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Colomiers,1718.5
 2026-03-05,2026,Colomiers,1633.9
 2026-03-26,2026,Colomiers,1667.7
+2026-04-17,2026,Colomiers,1679.7
 1980-04-12,1980,Combined Boland,1417.5
 1949-06-22,1949,Combined Central / Western,1486.4
 1968-09-25,1968,Combined Clubs XV,1482.2
@@ -5809,6 +5834,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Connacht,1555.7
 2026-03-20,2026,Connacht,1618.4
 2026-03-28,2026,Connacht,1640.4
+2026-04-18,2026,Connacht,1698.7
 1980-07-06,1980,Cook Islands,1529.7
 1992-10-10,1992,Cook Islands,1513.2
 1993-10-30,1993,Cook Islands,1478.4
@@ -6173,6 +6199,7 @@ Date,Year,Team,ELO
 2026-03-07,2026,Crusaders,1644.4
 2026-03-14,2026,Crusaders,1657.1
 2026-03-21,2026,Crusaders,1689.2
+2026-04-18,2026,Crusaders,1627.9
 2011-03-04,2011,Crusaders Knights,1611.6
 2011-03-09,2011,Crusaders Knights,1619.3
 2011-03-14,2011,Crusaders Knights,1633.3
@@ -6629,6 +6656,7 @@ Date,Year,Team,ELO
 2026-03-06,2026,Dogos,1567.5
 2026-03-14,2026,Dogos,1610.3
 2026-03-20,2026,Dogos,1638.0
+2026-04-11,2026,Dogos,1542.1
 2017-05-06,2017,Dominican Republic,1425.8
 2017-06-03,2017,Dominican Republic,1301.4
 2018-04-14,2018,Dominican Republic,1404.0
@@ -6689,6 +6717,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Dragons,1342.4
 2026-03-21,2026,Dragons,1332.9
 2026-03-28,2026,Dragons,1315.3
+2026-04-17,2026,Dragons,1285.6
 1906-11-27,1906,Dublin University,1484.0
 1964-01-02,1964,Dungannon,1500.0
 1993-10-02,1993,Dunvant,1484.6
@@ -6865,6 +6894,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Edinburgh Rugby,1449.7
 2026-03-21,2026,Edinburgh Rugby,1403.1
 2026-03-28,2026,Edinburgh Rugby,1386.4
+2026-04-17,2026,Edinburgh Rugby,1392.3
 2010-10-26,2010,Egypt,1528.2
 2010-10-29,2010,Egypt,1440.3
 2025-12-19,2025,Egypt,1494.8
@@ -7947,6 +7977,8 @@ Date,Year,Team,ELO
 2026-03-15,2026,Exeter Chiefs,1771.9
 2026-03-21,2026,Exeter Chiefs,1781.5
 2026-03-28,2026,Exeter Chiefs,1791.5
+2026-04-12,2026,Exeter Chiefs,1808.5
+2026-04-18,2026,Exeter Chiefs,1757.6
 2025-02-07,2025,FC Grenoble,1570.6
 2025-02-14,2025,FC Grenoble,1642.4
 2025-02-20,2025,FC Grenoble,1676.3
@@ -7985,6 +8017,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,FC Grenoble,1438.3
 2026-03-06,2026,FC Grenoble,1462.6
 2026-03-27,2026,FC Grenoble,1412.6
+2026-04-17,2026,FC Grenoble,1456.1
 1971-08-03,1971,Far Northern Transvaal,1500.0
 1935-07-24,1935,Far West,1433.7
 1938-08-20,1938,Fiji,1500.0
@@ -8579,6 +8612,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Fijian Drua,1452.0
 2026-03-21,2026,Fijian Drua,1408.7
 2026-03-28,2026,Fijian Drua,1394.5
+2026-04-18,2026,Fijian Drua,1452.5
 2002-10-19,2002,Finland,1382.5
 2004-09-18,2004,Finland,1248.5
 2004-10-30,2004,Finland,1175.4
@@ -8679,6 +8713,7 @@ Date,Year,Team,ELO
 2026-03-07,2026,Force,1327.3
 2026-03-13,2026,Force,1321.9
 2026-03-28,2026,Force,1306.2
+2026-04-18,2026,Force,1367.4
 1906-01-01,1906,France,1491.9
 1910-01-01,1910,France,1474.6
 1910-01-22,1910,France,1444.3
@@ -10300,6 +10335,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Glasgow Warriors,1792.6
 2026-03-21,2026,Glasgow Warriors,1848.9
 2026-03-27,2026,Glasgow Warriors,1864.7
+2026-04-18,2026,Glasgow Warriors,1747.3
 1905-10-19,1905,Gloucester Rugby,1482.5
 1912-12-28,1912,Gloucester Rugby,1473.3
 2012-11-13,2012,Gloucester Rugby,1505.3
@@ -10351,6 +10387,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Gloucester Rugby,1465.1
 2026-03-21,2026,Gloucester Rugby,1522.5
 2026-03-28,2026,Gloucester Rugby,1502.0
+2026-04-17,2026,Gloucester Rugby,1437.0
 1906-11-03,1906,Gloucestershire,1483.1
 1976-09-22,1976,Gloucestershire,1539.1
 1931-10-03,1931,Gloucestershire / Somerset,1493.4
@@ -10591,6 +10628,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Harlequins,1529.0
 2026-03-21,2026,Harlequins,1471.6
 2026-03-28,2026,Harlequins,1514.4
+2026-04-18,2026,Harlequins,1497.7
 1905-10-11,1905,Hartlepool Clubs,1476.5
 2025-10-04,2025,Hartpury University RFC,1516.8
 2025-10-11,2025,Hartpury University RFC,1541.8
@@ -10678,6 +10716,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Highlanders,1374.3
 2026-03-20,2026,Highlanders,1349.2
 2026-03-27,2026,Highlanders,1422.4
+2026-04-17,2026,Highlanders,1413.3
 2012-03-15,2012,Highlanders Development XV,1551.0
 2012-03-19,2012,Highlanders Development XV,1568.3
 2013-03-18,2013,Highlanders Development XV,1568.3
@@ -11010,6 +11049,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Hurricanes,1730.3
 2026-03-20,2026,Hurricanes,1755.4
 2026-03-28,2026,Hurricanes,1793.3
+2026-04-18,2026,Hurricanes,1738.7
 2011-03-05,2011,Hurricanes Development XV,1574.2
 2011-03-09,2011,Hurricanes Development XV,1597.2
 2011-03-14,2011,Hurricanes Development XV,1635.6
@@ -13187,6 +13227,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Kamaishi Seawaves,1492.6
 2026-03-22,2026,Kamaishi Seawaves,1439.0
 2026-03-28,2026,Kamaishi Seawaves,1416.1
+2026-04-12,2026,Kamaishi Seawaves,1380.6
 1985-04-10,1985,Kansai,1456.4
 1989-05-24,1989,Kansai,1445.9
 1985-04-17,1985,Kanto,1467.5
@@ -13413,6 +13454,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Kobelco Kobe Steelers,1806.3
 2026-03-20,2026,Kobelco Kobe Steelers,1717.0
 2026-03-28,2026,Kobelco Kobe Steelers,1746.6
+2026-04-18,2026,Kobelco Kobe Steelers,1765.3
 1969-03-16,1969,Korea,1475.6
 1970-01-13,1970,Korea,1459.8
 1972-11-05,1972,Korea,1447.0
@@ -13592,6 +13634,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Kubota Spears,1809.6
 2026-03-21,2026,Kubota Spears,1815.7
 2026-03-28,2026,Kubota Spears,1824.0
+2026-04-18,2026,Kubota Spears,1840.9
 2008-10-05,2008,Kyrgyzstan,1444.5
 2008-10-11,2008,Kyrgyzstan,1444.5
 2009-06-10,2009,Kyrgyzstan,1499.0
@@ -13611,6 +13654,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Kyushudenryoku Kyuden Voltex,1406.4
 2026-03-14,2026,Kyushudenryoku Kyuden Voltex,1393.1
 2026-03-27,2026,Kyushudenryoku Kyuden Voltex,1451.8
+2026-04-12,2026,Kyushudenryoku Kyuden Voltex,1487.3
 1906-12-12,1906,Lancashire,1494.7
 1981-12-09,1981,Lancashire,1485.4
 1931-12-09,1931,Lancashire / Cheshire,1491.0
@@ -13827,6 +13871,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Leicester Tigers,1862.5
 2026-03-21,2026,Leicester Tigers,1871.7
 2026-03-28,2026,Leicester Tigers,1892.2
+2026-04-18,2026,Leicester Tigers,1895.0
 1986-10-01,1986,Leicestershire Centenary XV,1538.7
 1945-11-17,1945,Leinster,1500.0
 1961-02-01,1961,Leinster,1497.5
@@ -13881,6 +13926,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Leinster,1836.4
 2026-03-21,2026,Leinster,1780.1
 2026-03-28,2026,Leinster,1787.2
+2026-04-17,2026,Leinster,1821.1
 1973-07-07,1973,Leopards,1397.8
 2014-02-22,2014,Lesotho,1504.7
 2015-07-04,2015,Lesotho,1507.9
@@ -13934,6 +13980,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Lions,1505.5
 2026-03-21,2026,Lions,1552.1
 2026-03-28,2026,Lions,1569.7
+2026-04-18,2026,Lions,1687.1
 1993-05-01,1993,Lithuania,1444.9
 1993-05-29,1993,Lithuania,1427.6
 1996-01-01,1996,Lithuania,1380.6
@@ -14273,6 +14320,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Lyon Olympique Universitaire,1450.2
 2026-03-21,2026,Lyon Olympique Universitaire,1483.5
 2026-03-28,2026,Lyon Olympique Universitaire,1469.3
+2026-04-18,2026,Lyon Olympique Universitaire,1430.7
 2004-10-31,2004,Macau,1536.8
 1970-05-24,1970,Madagascar,1479.4
 1970-05-31,1970,Madagascar,1468.5
@@ -14794,6 +14842,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Mie Honda Heat,1265.1
 2026-03-22,2026,Mie Honda Heat,1300.1
 2026-03-29,2026,Mie Honda Heat,1363.1
+2026-04-17,2026,Mie Honda Heat,1322.3
 2025-03-22,2025,Mitsubishi Sagamihara Dynaboars,1555.8
 2025-03-29,2025,Mitsubishi Sagamihara Dynaboars,1500.9
 2025-04-05,2025,Mitsubishi Sagamihara Dynaboars,1446.0
@@ -14814,6 +14863,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Mitsubishi Sagamihara Dynaboars,1412.8
 2026-03-21,2026,Mitsubishi Sagamihara Dynaboars,1448.5
 2026-03-29,2026,Mitsubishi Sagamihara Dynaboars,1418.1
+2026-04-18,2026,Mitsubishi Sagamihara Dynaboars,1340.2
 2025-02-15,2025,Moana Pasifika,1489.1
 2025-02-21,2025,Moana Pasifika,1457.8
 2025-02-28,2025,Moana Pasifika,1437.1
@@ -14835,6 +14885,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Moana Pasifika,1377.4
 2026-03-21,2026,Moana Pasifika,1345.3
 2026-03-27,2026,Moana Pasifika,1272.2
+2026-04-17,2026,Moana Pasifika,1253.7
 1995-03-25,1995,Moldova,1407.9
 1996-01-01,1996,Moldova,1385.0
 1996-10-12,1996,Moldova,1415.1
@@ -15002,6 +15053,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Mont-de-Marsan,1417.8
 2026-03-06,2026,Mont-de-Marsan,1471.9
 2026-03-27,2026,Mont-de-Marsan,1483.7
+2026-04-17,2026,Mont-de-Marsan,1423.1
 2015-04-11,2015,Montenegro,1521.1
 2015-04-14,2015,Montenegro,1437.4
 2016-05-18,2016,Montenegro,1426.3
@@ -15072,6 +15124,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Montpellier Herault Rugby Club,1784.3
 2026-03-21,2026,Montpellier Herault Rugby Club,1801.3
 2026-03-28,2026,Montpellier Herault Rugby Club,1748.9
+2026-04-18,2026,Montpellier Herault Rugby Club,1757.5
 1967-04-09,1967,Morocco,1470.6
 1968-03-17,1968,Morocco,1479.7
 1968-05-05,1968,Morocco,1479.7
@@ -15238,6 +15291,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Munster,1618.0
 2026-03-21,2026,Munster,1548.0
 2026-03-28,2026,Munster,1531.0
+2026-04-18,2026,Munster,1619.2
 2025-12-13,2025,NEC Green Rockets,1545.5
 2025-12-20,2025,NEC Green Rockets,1497.8
 2026-01-10,2026,NEC Green Rockets,1432.4
@@ -15274,6 +15328,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,NSW Waratahs,1481.4
 2026-03-21,2026,NSW Waratahs,1441.9
 2026-03-27,2026,NSW Waratahs,1476.9
+2026-04-17,2026,NSW Waratahs,1495.4
 1974-08-08,1974,Nada RC,1462.8
 1964-08-05,1964,Nadi,1484.6
 1980-05-17,1980,Nadi,1473.1
@@ -15711,6 +15766,7 @@ Date,Year,Team,ELO
 1949-06-08,1949,New England,1485.7
 1951-07-11,1951,New England,1479.1
 1957-06-05,1957,New England,1475.4
+2026-04-11,2026,New England Free Jacks,1473.4
 1907-07-13,1907,New South Wales,1495.6
 1907-07-17,1907,New South Wales,1598.9
 1934-08-04,1934,New South Wales,1591.3
@@ -16145,8 +16201,8 @@ Date,Year,Team,ELO
 1959-08-15,1959,New Zealand,2162.6
 1959-08-29,1959,New Zealand,2182.9
 1959-09-19,1959,New Zealand,2137.8
-1960-05-14,1960,New Zealand,2141.5
 1960-05-14,1960,New Zealand,2154.6
+1960-05-14,1960,New Zealand,2141.5
 1960-05-17,1960,New Zealand,2159.0
 1960-05-17,1960,New Zealand,2163.1
 1960-05-21,1960,New Zealand,2168.4
@@ -17308,6 +17364,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Newcastle Red Bulls,1277.7
 2026-03-21,2026,Newcastle Red Bulls,1276.7
 2026-03-28,2026,Newcastle Red Bulls,1266.7
+2026-04-18,2026,Newcastle Red Bulls,1263.9
 1905-12-23,1905,Newport,1496.6
 1906-10-27,1906,Newport,1483.9
 1912-10-24,1912,Newport,1554.4
@@ -17578,6 +17635,7 @@ Date,Year,Team,ELO
 2026-03-08,2026,Northampton Saints,1785.5
 2026-03-21,2026,Northampton Saints,1786.5
 2026-03-28,2026,Northampton Saints,1804.2
+2026-04-18,2026,Northampton Saints,1855.1
 1958-07-16,1958,Northern & Western Transvaal,1516.7
 1946-02-02,1946,Northern Counties,1493.9
 1973-11-13,1973,Northern Counties,1526.5
@@ -17770,6 +17828,7 @@ Date,Year,Team,ELO
 2026-03-29,2026,Nottingham,1522.1
 1989-05-24,1989,Nova Scotia President's XV,1401.0
 1976-08-10,1976,OFS Country Invitation XV,1495.3
+2026-04-11,2026,Old Glory DC,1526.6
 1973-06-05,1973,Ontario,1489.6
 1977-06-07,1977,Ontario,1467.1
 1989-05-27,1989,Ontario,1424.9
@@ -17814,6 +17873,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Ospreys,1557.6
 2026-03-21,2026,Ospreys,1516.0
 2026-03-28,2026,Ospreys,1494.0
+2026-04-18,2026,Ospreys,1534.4
 1921-08-10,1921,Otago,1493.5
 1937-09-11,1937,Otago,1486.3
 1950-05-20,1950,Otago,1583.1
@@ -17927,6 +17987,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Oyonnax Rugby,1594.1
 2026-03-06,2026,Oyonnax Rugby,1635.0
 2026-03-27,2026,Oyonnax Rugby,1562.4
+2026-04-17,2026,Oyonnax Rugby,1519.0
 1987-10-28,1987,Pacific Barbarians,1498.3
 2001-06-13,2001,Pacific Barbarians,1609.2
 2014-06-22,2014,Pacific Barbarians,1545.7
@@ -18860,6 +18921,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,Provence Rugby,1598.0
 2026-03-06,2026,Provence Rugby,1538.4
 2026-03-26,2026,Provence Rugby,1504.7
+2026-04-17,2026,Provence Rugby,1520.9
 1990-10-17,1990,Provence-Cote d'Azur,1563.9
 1968-09-11,1968,Provinical Selection,1468.6
 1987-10-14,1987,Provinical Selection,1464.1
@@ -19075,6 +19137,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,RC Toulonnais,1491.9
 2026-03-21,2026,RC Toulonnais,1449.0
 2026-03-28,2026,RC Toulonnais,1389.0
+2026-04-18,2026,RC Toulonnais,1413.8
 2024-09-08,2024,RC Vannes,1421.0
 2024-09-14,2024,RC Vannes,1401.5
 2024-11-23,2024,RC Vannes,1364.3
@@ -19122,6 +19185,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,RC Vannes,1826.2
 2026-03-06,2026,RC Vannes,1844.9
 2026-03-27,2026,RC Vannes,1848.2
+2026-04-17,2026,RC Vannes,1797.6
 2012-11-17,2012,RFU Championship XV,1408.4
 2014-11-02,2014,RFU Championship XV,1457.3
 2024-09-07,2024,Racing 92,1478.2
@@ -20028,6 +20092,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Saitama Wild Knights,1798.7
 2026-03-21,2026,Saitama Wild Knights,1821.4
 2026-03-28,2026,Saitama Wild Knights,1832.3
+2026-04-18,2026,Saitama Wild Knights,1843.9
 1997-11-20,1997,Sale Sharks,1461.4
 2024-09-22,2024,Sale Sharks,1476.6
 2024-09-28,2024,Sale Sharks,1454.4
@@ -20527,6 +20592,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Scarlets,1340.2
 2026-03-20,2026,Scarlets,1379.9
 2026-03-28,2026,Scarlets,1372.8
+2026-04-18,2026,Scarlets,1343.7
 1893-02-04,1893,Scotland,1445.6
 1893-02-20,1893,Scotland,1445.6
 1893-03-04,1893,Scotland,1508.3
@@ -21399,6 +21465,7 @@ Date,Year,Team,ELO
 1987-09-26,1987,Scottish Select XV,1554.1
 1994-11-15,1994,Scottish Select XV,1546.9
 1946-01-24,1946,Scottish Universities,1490.6
+2026-04-12,2026,Seattle Seawolves,1471.5
 2024-09-07,2024,Section Paloise,1444.9
 2024-09-14,2024,Section Paloise,1507.2
 2024-11-23,2024,Section Paloise,1457.9
@@ -21447,6 +21514,7 @@ Date,Year,Team,ELO
 2026-03-01,2026,Section Paloise,1609.1
 2026-03-21,2026,Section Paloise,1546.9
 2026-03-28,2026,Section Paloise,1587.0
+2026-04-18,2026,Section Paloise,1635.1
 1946-09-04,1946,Seddon Shield XV,1477.7
 1989-06-21,1989,Seddon Shield XV,1470.3
 1971-08-21,1971,Select XV,1500.0
@@ -21461,6 +21529,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Selknam,1411.4
 2026-03-21,2026,Selknam,1471.0
 2026-03-28,2026,Selknam,1453.6
+2026-04-12,2026,Selknam,1464.0
 2005-03-12,2005,Senegal,1558.5
 2005-03-26,2005,Senegal,1574.8
 2005-05-28,2005,Senegal,1588.2
@@ -21635,6 +21704,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Sharks,1572.9
 2026-03-21,2026,Sharks,1642.9
 2026-03-27,2026,Sharks,1660.1
+2026-04-18,2026,Sharks,1619.6
 2019-08-24,2019,Sharks Invitational XV,1472.1
 2025-07-26,2025,Sharks XV,1439.9
 2025-08-02,2025,Sharks XV,1405.4
@@ -21672,6 +21742,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Shizuoka Blue Revs,1378.7
 2026-03-22,2026,Shizuoka Blue Revs,1441.4
 2026-03-28,2026,Shizuoka Blue Revs,1411.7
+2026-04-18,2026,Shizuoka Blue Revs,1400.2
 1970-01-11,1970,Singapore,1474.8
 1971-10-03,1971,Singapore,1456.6
 1972-11-04,1972,Singapore,1433.2
@@ -23117,6 +23188,7 @@ Date,Year,Team,ELO
 2026-02-26,2026,Soyaux Angouleme,1426.3
 2026-03-06,2026,Soyaux Angouleme,1402.0
 2026-03-27,2026,Soyaux Angouleme,1367.6
+2026-04-17,2026,Soyaux Angouleme,1418.2
 1930-05-18,1930,Spain,1471.8
 1952-04-13,1952,Spain,1427.7
 1954-04-05,1954,Spain,1490.7
@@ -23663,6 +23735,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Stade Rochelais,1482.7
 2026-03-21,2026,Stade Rochelais,1544.8
 2026-03-28,2026,Stade Rochelais,1479.0
+2026-04-18,2026,Stade Rochelais,1588.1
 2024-09-08,2024,Stade Toulousain,1579.0
 2024-09-15,2024,Stade Toulousain,1607.4
 2024-11-23,2024,Stade Toulousain,1630.8
@@ -23715,6 +23788,8 @@ Date,Year,Team,ELO
 2026-02-28,2026,Stade Toulousain,1825.5
 2026-03-22,2026,Stade Toulousain,1752.9
 2026-03-28,2026,Stade Toulousain,1805.2
+2026-04-12,2026,Stade Toulousain,1759.6
+2026-04-18,2026,Stade Toulousain,1785.8
 2021-07-17,2021,Stormers,1497.6
 2024-11-30,2024,Stormers,1466.4
 2024-12-07,2024,Stormers,1422.6
@@ -23752,6 +23827,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Stormers,1633.8
 2026-03-21,2026,Stormers,1643.3
 2026-03-28,2026,Stormers,1660.1
+2026-04-18,2026,Stormers,1601.8
 2001-06-03,2001,Suntory,1496.9
 1905-11-01,1905,Surrey,1491.3
 1906-12-19,1906,Surrey,1479.4
@@ -24148,6 +24224,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Tarucas,1495.2
 2026-03-21,2026,Tarucas,1530.6
 2026-03-27,2026,Tarucas,1552.0
+2026-04-13,2026,Tarucas,1507.3
 2025-08-16,2025,Tasman,1555.4
 2025-08-23,2025,Tasman,1608.2
 2025-08-30,2025,Tasman,1657.2
@@ -24370,6 +24447,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Tokyo Sungoliath,1591.3
 2026-03-21,2026,Tokyo Sungoliath,1555.6
 2026-03-28,2026,Tokyo Sungoliath,1544.6
+2026-04-18,2026,Tokyo Sungoliath,1527.7
 1960-05-21,1960,Tonga,1558.0
 1963-08-31,1963,Tonga,1545.9
 1963-09-07,1963,Tonga,1526.2
@@ -24753,6 +24831,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Toshiba Brave Lupus,1428.3
 2026-03-22,2026,Toshiba Brave Lupus,1393.2
 2026-03-28,2026,Toshiba Brave Lupus,1385.0
+2026-04-18,2026,Toshiba Brave Lupus,1463.0
 1981-07-26,1981,Townsville,1450.0
 2025-12-13,2025,Toyota Industries Shuttles,1420.1
 2025-12-21,2025,Toyota Industries Shuttles,1518.8
@@ -24782,6 +24861,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Toyota Verblitz,1413.5
 2026-03-22,2026,Toyota Verblitz,1350.9
 2026-03-28,2026,Toyota Verblitz,1399.5
+2026-04-18,2026,Toyota Verblitz,1380.7
 1983-03-23,1983,Transkei,1427.9
 1896-08-15,1896,Transvaal,1484.8
 1896-08-19,1896,Transvaal,1473.4
@@ -25052,6 +25132,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,US Dax,1507.8
 2026-03-06,2026,US Dax,1466.9
 2026-03-27,2026,US Dax,1516.8
+2026-04-17,2026,US Dax,1577.5
 2007-04-07,2007,US Falcons,1554.6
 2007-05-09,2007,US Falcons,1602.7
 2007-05-12,2007,US Falcons,1655.5
@@ -25113,6 +25194,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,US Montauban,1122.0
 2026-03-21,2026,US Montauban,1071.9
 2026-03-28,2026,US Montauban,1062.9
+2026-04-18,2026,US Montauban,1038.0
 1912-11-16,1912,USA,1457.8
 1913-11-15,1913,USA,1437.8
 1920-10-01,1920,USA,1528.5
@@ -25483,6 +25565,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,USA Perpignan,1386.9
 2026-03-21,2026,USA Perpignan,1353.7
 2026-03-28,2026,USA Perpignan,1413.6
+2026-04-18,2026,USA Perpignan,1405.1
 2010-10-05,2010,USA Select XV,1528.2
 2010-10-10,2010,USA Select XV,1500.3
 2010-10-15,2010,USA Select XV,1463.3
@@ -25563,6 +25646,7 @@ Date,Year,Team,ELO
 2026-02-27,2026,USON Nevers,1271.8
 2026-03-06,2026,USON Nevers,1257.7
 2026-03-27,2026,USON Nevers,1254.4
+2026-04-17,2026,USON Nevers,1276.2
 1974-08-04,1974,USSR,1548.7
 1974-08-06,1974,USSR,1584.3
 1974-08-08,1974,USSR,1621.5
@@ -26010,6 +26094,7 @@ Date,Year,Team,ELO
 2026-03-13,2026,Ulster,1675.6
 2026-03-20,2026,Ulster,1612.8
 2026-03-28,2026,Ulster,1631.3
+2026-04-17,2026,Ulster,1597.4
 2024-09-07,2024,Union Bordeaux-Begles,1547.9
 2024-09-14,2024,Union Bordeaux-Begles,1530.0
 2024-11-23,2024,Union Bordeaux-Begles,1567.2
@@ -26063,6 +26148,8 @@ Date,Year,Team,ELO
 2026-03-01,2026,Union Bordeaux-Begles,1705.8
 2026-03-22,2026,Union Bordeaux-Begles,1778.4
 2026-03-28,2026,Union Bordeaux-Begles,1792.6
+2026-04-12,2026,Union Bordeaux-Begles,1838.2
+2026-04-18,2026,Union Bordeaux-Begles,1729.1
 2011-04-23,2011,United Arab Emirates,1500.0
 2011-04-29,2011,United Arab Emirates,1522.0
 2011-05-13,2011,United Arab Emirates,1476.8
@@ -26154,6 +26241,7 @@ Date,Year,Team,ELO
 2026-03-15,2026,Urayasu D-Rocks,1215.7
 2026-03-21,2026,Urayasu D-Rocks,1209.5
 2026-03-29,2026,Urayasu D-Rocks,1146.5
+2026-04-18,2026,Urayasu D-Rocks,1123.3
 1951-09-13,1951,Uruguay,1540.1
 1951-09-16,1951,Uruguay,1565.0
 1958-09-15,1958,Uruguay,1481.9
@@ -26543,6 +26631,7 @@ Date,Year,Team,ELO
 2026-02-26,2026,Valence Romans,1504.0
 2026-03-06,2026,Valence Romans,1485.4
 2026-03-27,2026,Valence Romans,1558.0
+2026-04-17,2026,Valence Romans,1536.1
 1983-05-25,1983,Valencia Select,1486.6
 1936-01-25,1936,Vancouver,1484.7
 1985-05-08,1985,Vancouver,1473.8
@@ -27885,6 +27974,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Yacare XV,1388.6
 2026-03-21,2026,Yacare XV,1353.2
 2026-03-27,2026,Yacare XV,1347.2
+2026-04-11,2026,Yacare XV,1443.2
 2025-03-22,2025,Yokohama Canon Eagles,1454.5
 2025-03-30,2025,Yokohama Canon Eagles,1390.8
 2025-04-05,2025,Yokohama Canon Eagles,1439.1
@@ -27905,6 +27995,7 @@ Date,Year,Team,ELO
 2026-03-14,2026,Yokohama Canon Eagles,1274.8
 2026-03-20,2026,Yokohama Canon Eagles,1364.1
 2026-03-28,2026,Yokohama Canon Eagles,1315.5
+2026-04-18,2026,Yokohama Canon Eagles,1338.7
 1905-12-13,1905,Yorkshire,1492.5
 1906-10-13,1906,Yorkshire,1463.9
 2015-08-14,2015,Yorkshire Carnegie,1500.0
@@ -28025,6 +28116,7 @@ Date,Year,Team,ELO
 2026-02-28,2026,Zebre Rugby,1293.2
 2026-03-20,2026,Zebre Rugby,1253.5
 2026-03-28,2026,Zebre Rugby,1235.0
+2026-04-17,2026,Zebre Rugby,1229.1
 1982-06-26,1982,Zimbabwe,1493.4
 1982-07-03,1982,Zimbabwe,1489.5
 1984-07-07,1984,Zimbabwe,1511.9

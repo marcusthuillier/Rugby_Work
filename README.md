@@ -1,7 +1,5 @@
 # Rugby Work
 
-Personal rugby analytics projects covering rating systems, match prediction, and computer vision-based game analysis.
-
 ## Folders
 
 | Folder | Description |

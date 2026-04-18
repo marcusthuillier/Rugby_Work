@@ -168,13 +168,6 @@ def get_rank(df: pd.DataFrame) -> None:
     except Exception as e:
         logging.error(f"Error in get_rank function: {e}")
 
-import logging
-import pandas as pd
-
-# Set up logging configuration
-logging.basicConfig(filename='elo_log.txt', level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
-
 def calculate_team_performance(df: pd.DataFrame) -> pd.DataFrame:
     try:
         # Get unique team names and years
@@ -216,5 +209,3 @@ def calculate_team_performance(df: pd.DataFrame) -> pd.DataFrame:
     except Exception as e:
         logging.error(f"Error in calculate_team_performance function: {e}")
         return pd.DataFrame(columns=["Year", "Team", "xWins", "Wins", "Performance"])  # Return empty DataFrame on error
-    
-# https://medium.com/towards-data-science/an-end-to-end-machine-learning-project-with-python-pandas-keras-flask-docker-and-heroku-c987018c42c7
