@@ -5362,8 +5362,8 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-01-23,USON Nevers,Mont-de-Marsan,Pro D2 2026,0.0,France
 2026-01-23,Valence Romans,Carcassonne,Pro D2 2026,0.0,France
 2026-01-23,Munster,Dragons,URC 2026,0.0,Ireland
-2026-01-23,Chinnor,Ealing Trailfinders,English Championship 2026,0.0,England
 2026-01-23,Nottingham,London Scottish,English Championship 2026,0.0,England
+2026-01-23,Chinnor,Ealing Trailfinders,English Championship 2026,0.0,England
 2026-01-23,Edinburgh Rugby,Bulls,URC 2026,0.0,Scotland
 2026-01-23,Ospreys,Lions,URC 2026,0.0,Wales
 2026-01-23,FC Grenoble,RC Vannes,Pro D2 2026,0.0,France
@@ -5384,9 +5384,9 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-01-24,Sale Sharks,Northampton Saints,English Premiership 2026,0.0,England
 2026-01-24,Saracens,Newcastle Red Bulls,English Premiership 2026,0.0,England
 2026-01-24,Exeter Chiefs,Bristol Bears,English Premiership 2026,0.0,England
-2026-01-24,Aviron Bayonnais,Castres Olympique,Top 14 2026,0.0,France
 2026-01-24,Racing 92,Lyon Olympique Universitaire,Top 14 2026,0.0,France
 2026-01-24,USA Perpignan,US Montauban,Top 14 2026,0.0,France
+2026-01-24,Aviron Bayonnais,Castres Olympique,Top 14 2026,0.0,France
 2026-01-24,Connacht,Leinster,URC 2026,0.0,Ireland
 2026-01-24,Stormers,Sharks,URC 2026,0.0,South Africa
 2026-01-24,Cardiff Rugby,Benetton Rugby,URC 2026,0.0,Wales
@@ -5439,16 +5439,16 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-02-07,Kobelco Kobe Steelers,Shizuoka Blue Revs,Japan League One 2026,0.0,Japan
 2026-02-07,Black Rams Tokyo,Saitama Wild Knights,Japan League One 2026,0.0,Japan
 2026-02-07,Mie Honda Heat,Toshiba Brave Lupus,Japan League One 2026,0.0,Japan
-2026-02-07,Shimizu Blue Sharks,Hanazono Kinetsu Liners,Japan Rugby League One D2 2026,0.0,Japan
 2026-02-07,Kubota Spears,Urayasu D-Rocks,Japan League One 2026,0.0,Japan
+2026-02-07,Shimizu Blue Sharks,Hanazono Kinetsu Liners,Japan Rugby League One D2 2026,0.0,Japan
 2026-02-07,Toyota Verblitz,Yokohama Canon Eagles,Japan League One 2026,0.0,Japan
 2026-02-07,Netherlands,Spain,Rugby Europe International Championship 2026,0.0,Netherlands
 2026-02-07,Cambridge,Caldy,English Championship 2026,0.0,England
 2026-02-07,Bristol Bears,Exeter Chiefs,Premiership Rugby Cup 2026,0.0,England
 2026-02-07,Italy,Scotland,Six Nations 2026,0.0,Italy
+2026-02-07,Saracens,Harlequins,Premiership Rugby Cup 2026,0.0,England
 2026-02-07,Chinnor,Hartpury University RFC,English Championship 2026,0.0,England
 2026-02-07,Worcester Warriors,Doncaster Knights,English Championship 2026,0.0,England
-2026-02-07,Saracens,Harlequins,Premiership Rugby Cup 2026,0.0,England
 2026-02-07,Ealing Trailfinders,Coventry,English Championship 2026,0.0,England
 2026-02-07,England,Wales,Six Nations 2026,0.0,England
 2026-02-07,Belgium,Portugal,Rugby Europe International Championship 2026,0.0,Belgium
@@ -5481,9 +5481,9 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-02-14,Exeter Chiefs,Gloucester Rugby,Premiership Rugby Cup 2026,0.0,England
 2026-02-14,Ireland,Italy,Six Nations 2026,0.0,Ireland
 2026-02-14,Saracens,Leicester Tigers,Premiership Rugby Cup 2026,0.0,England
-2026-02-14,Lyon Olympique Universitaire,US Montauban,Top 14 2026,0.0,France
-2026-02-14,Aviron Bayonnais,Racing 92,Top 14 2026,0.0,France
 2026-02-14,Stade Rochelais,Montpellier Herault Rugby Club,Top 14 2026,0.0,France
+2026-02-14,Aviron Bayonnais,Racing 92,Top 14 2026,0.0,France
+2026-02-14,Lyon Olympique Universitaire,US Montauban,Top 14 2026,0.0,France
 2026-02-14,Scotland,England,Six Nations 2026,0.0,Scotland
 2026-02-14,Spain,Switzerland,Rugby Europe International Championship 2026,0.0,Spain
 2026-02-14,RC Toulonnais,ASM Clermont Auvergne,Top 14 2026,0.0,France
@@ -5543,12 +5543,12 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-02-27,CA Brive,US Dax,Pro D2 2026,0.0,France
 2026-02-27,Mont-de-Marsan,Biarritz Olympique,Pro D2 2026,0.0,France
 2026-02-27,Carcassonne,Aurillac,Pro D2 2026,0.0,France
-2026-02-27,USON Nevers,FC Grenoble,Pro D2 2026,0.0,France
 2026-02-27,Beziers,Oyonnax Rugby,Pro D2 2026,0.0,France
+2026-02-27,USON Nevers,FC Grenoble,Pro D2 2026,0.0,France
 2026-02-27,Edinburgh Rugby,Scarlets,URC 2026,0.0,Scotland
 2026-02-27,Cardiff Rugby,Leinster,URC 2026,0.0,Wales
-2026-02-27,Hartpury University RFC,Richmond,English Championship 2026,0.0,England
 2026-02-27,Nottingham,Worcester Warriors,English Championship 2026,0.0,England
+2026-02-27,Hartpury University RFC,Richmond,English Championship 2026,0.0,England
 2026-02-27,RC Vannes,Colomiers,Pro D2 2026,0.0,France
 2026-02-27,Peñarol,Tarucas,Super Rugby Americas 2026,0.0,
 2026-02-28,Toshiba Brave Lupus,Black Rams Tokyo,Japan League One 2026,0.0,Japan
@@ -5574,10 +5574,10 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-02-28,Bath Rugby,Gloucester Rugby,Premiership Rugby Cup 2026,0.0,England
 2026-02-28,Harlequins,Newcastle Red Bulls,Premiership Rugby Cup 2026,0.0,England
 2026-02-28,Northampton Saints,Saracens,Premiership Rugby Cup 2026,0.0,England
-2026-02-28,Stade Toulousain,US Montauban,Top 14 2026,0.0,France
-2026-02-28,Stade Francais Paris,USA Perpignan,Top 14 2026,0.0,France
 2026-02-28,Lyon Olympique Universitaire,RC Toulonnais,Top 14 2026,0.0,France
 2026-02-28,Montpellier Herault Rugby Club,Racing 92,Top 14 2026,0.0,France
+2026-02-28,Stade Toulousain,US Montauban,Top 14 2026,0.0,France
+2026-02-28,Stade Francais Paris,USA Perpignan,Top 14 2026,0.0,France
 2026-02-28,Munster,Zebre Rugby,URC 2026,0.0,Ireland
 2026-02-28,Dragons,Benetton Rugby,URC 2026,0.0,Wales
 2026-02-28,Selknam,Yacare XV,Super Rugby Americas 2026,0.0,
@@ -5678,9 +5678,9 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-03-21,Harlequins,Gloucester Rugby,English Premiership 2026,0.0,England
 2026-03-21,Leicester Tigers,Bristol Bears,English Premiership 2026,0.0,England
 2026-03-21,Northampton Saints,Newcastle Red Bulls,English Premiership 2026,0.0,England
+2026-03-21,USA Perpignan,Lyon Olympique Universitaire,Top 14 2026,0.0,France
 2026-03-21,RC Toulonnais,Stade Francais Paris,Top 14 2026,0.0,France
 2026-03-21,Racing 92,Castres Olympique,Top 14 2026,0.0,France
-2026-03-21,USA Perpignan,Lyon Olympique Universitaire,Top 14 2026,0.0,France
 2026-03-21,US Montauban,Aviron Bayonnais,Top 14 2026,0.0,France
 2026-03-21,Greece,Kosovo,Men's Internationals 2026,0.0,Greece
 2026-03-21,Glasgow Warriors,Leinster,URC 2026,0.0,Scotland
@@ -5723,13 +5723,13 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-03-28,Bulls,Munster,URC 2026,0.0,South Africa
 2026-03-28,Gloucester Rugby,Leicester Tigers,English Premiership 2026,0.0,England
 2026-03-28,Stade Toulousain,Montpellier Herault Rugby Club,Top 14 2026,0.0,France
-2026-03-28,Cambridge,Bedford Blues,English Championship 2026,0.0,England
 2026-03-28,Ampthill,Richmond,English Championship 2026,0.0,England
+2026-03-28,Cambridge,Bedford Blues,English Championship 2026,0.0,England
 2026-03-28,Connacht,Ospreys,URC 2026,0.0,Ireland
 2026-03-28,Lions,Dragons,URC 2026,0.0,South Africa
 2026-03-28,Cornish Pirates,Worcester Warriors,English Championship 2026,0.0,England
-2026-03-28,London Scottish,Coventry,English Championship 2026,0.0,England
 2026-03-28,Caldy,Ealing Trailfinders,English Championship 2026,0.0,England
+2026-03-28,London Scottish,Coventry,English Championship 2026,0.0,England
 2026-03-28,Bristol Bears,Harlequins,English Premiership 2026,0.0,Wales
 2026-03-28,Newcastle Red Bulls,Exeter Chiefs,English Premiership 2026,0.0,England
 2026-03-28,Sale Sharks,Bath Rugby,English Premiership 2026,0.0,England
@@ -5747,3 +5747,135 @@ Date,Home_Team,Away_Team,Competition,Rankings_Weight,Venue_Country
 2026-03-29,Black Rams Tokyo,Mitsubishi Sagamihara Dynaboars,Japan League One 2026,0.0,Japan
 2026-03-29,Nottingham,Chinnor,English Championship 2026,0.0,England
 2026-03-29,Stade Francais Paris,ASM Clermont Auvergne,Top 14 2026,0.0,France
+2026-03-30,Dogos,Capibaras XV,Super Rugby Americas 2026,0.0,
+2026-04-02,FC Grenoble,Valence Romans,Pro D2 2026,0.0,France
+2026-04-03,Crusaders,Fijian Drua,Super Rugby 2026,0.0,New Zealand
+2026-04-03,Czechia,Mexico,Men's Internationals 2026,0.0,Czech Republic
+2026-04-03,Chinnor,Cambridge,English Championship 2026,0.0,England
+2026-04-03,Agen,RC Vannes,Pro D2 2026,0.0,France
+2026-04-03,USON Nevers,Beziers,Pro D2 2026,0.0,France
+2026-04-03,Mont-de-Marsan,Aurillac,Pro D2 2026,0.0,France
+2026-04-03,Soyaux Angouleme,Carcassonne,Pro D2 2026,0.0,France
+2026-04-03,Colomiers,US Dax,Pro D2 2026,0.0,France
+2026-04-03,Oyonnax Rugby,Biarritz Olympique,Pro D2 2026,0.0,France
+2026-04-03,CA Brive,Provence Rugby,Pro D2 2026,0.0,France
+2026-04-03,Northampton Saints,Castres Olympique,EPCR Champions Cup 2026,0.0,England
+2026-04-03,Connacht,Sharks,EPCR Challenge Cup 2026,0.0,Ireland
+2026-04-03,Seattle Seawolves,Old Glory DC,Major League Rugby 2026,0.0,United States
+2026-04-04,Kamaishi Seawaves,Toyota Industries Shuttles,Japan Rugby League One D2 2026,0.0,Japan
+2026-04-04,Mie Honda Heat,Tokyo Sungoliath,Japan League One 2026,0.0,Japan
+2026-04-04,Mitsubishi Sagamihara Dynaboars,Shizuoka Blue Revs,Japan League One 2026,0.0,Japan
+2026-04-04,Saitama Wild Knights,Yokohama Canon Eagles,Japan League One 2026,0.0,Japan
+2026-04-04,Shimizu Blue Sharks,Hino Red Dolphins,Japan Rugby League One D2 2026,0.0,Japan
+2026-04-04,Toyota Verblitz,Kubota Spears,Japan League One 2026,0.0,Japan
+2026-04-04,Chiefs,NSW Waratahs,Super Rugby 2026,0.0,New Zealand
+2026-04-04,Queensland Reds,Force,Super Rugby 2026,0.0,Australia
+2026-04-04,Montpellier Herault Rugby Club,USA Perpignan,EPCR Challenge Cup 2026,0.0,France
+2026-04-04,Moldova,Turkey,Rugby Europe Conference 2026,0.0,"Moldova, Republic of"
+2026-04-04,Exeter Chiefs,Munster,EPCR Challenge Cup 2026,0.0,England
+2026-04-04,Hungary,Austria,Rugby Europe Conference 2026,0.0,Hungary
+2026-04-04,RC Toulonnais,Stormers,EPCR Champions Cup 2026,0.0,France
+2026-04-04,Sweden,Denmark,Rugby Europe Trophy 2026,0.0,Sweden
+2026-04-04,Hartpury University RFC,London Scottish,English Championship 2026,0.0,England
+2026-04-04,Richmond,Worcester Warriors,English Championship 2026,0.0,England
+2026-04-04,Coventry,Caldy,English Championship 2026,0.0,England
+2026-04-04,Ealing Trailfinders,Nottingham,English Championship 2026,0.0,England
+2026-04-04,Ampthill,Doncaster Knights,English Championship 2026,0.0,England
+2026-04-04,Bedford Blues,Cornish Pirates,English Championship 2026,0.0,England
+2026-04-04,Bath Rugby,Saracens,EPCR Champions Cup 2026,0.0,England
+2026-04-04,Stade Toulousain,Bristol Bears,EPCR Champions Cup 2026,0.0,France
+2026-04-04,Benetton Rugby,Cardiff Rugby,EPCR Challenge Cup 2026,0.0,Italy
+2026-04-04,Andorra,Malta,Rugby Europe Conference 2026,0.0,Andorra
+2026-04-04,Glasgow Warriors,Bulls,EPCR Champions Cup 2026,0.0,Scotland
+2026-04-04,Newcastle Red Bulls,Stade Rochelais,EPCR Challenge Cup 2026,0.0,England
+2026-04-04,Ulster,Ospreys,EPCR Challenge Cup 2026,0.0,Northern Ireland
+2026-04-04,Harlequins,Sale Sharks,EPCR Champions Cup 2026,0.0,England
+2026-04-04,Anthem Rugby Carolina,Chicago Hounds,Major League Rugby 2026,0.0,United States
+2026-04-04,California Legion,New England Free Jacks,Major League Rugby 2026,0.0,United States
+2026-04-05,Toshiba Brave Lupus,Urayasu D-Rocks,Japan League One 2026,0.0,Japan
+2026-04-05,Black Rams Tokyo,Kobelco Kobe Steelers,Japan League One 2026,0.0,Japan
+2026-04-05,Stade Francais Paris,Dragons,EPCR Challenge Cup 2026,0.0,France
+2026-04-05,Union Bordeaux-Begles,Leicester Tigers,EPCR Champions Cup 2026,0.0,France
+2026-04-05,Zebre Rugby,Section Paloise,EPCR Challenge Cup 2026,0.0,Italy
+2026-04-05,Leinster,Edinburgh Rugby,EPCR Champions Cup 2026,0.0,Ireland
+2026-04-10,Highlanders,Brumbies,Super Rugby 2026,0.0,New Zealand
+2026-04-10,Aurillac,Agen,Pro D2 2026,0.0,France
+2026-04-10,Croatia,Mexico,Men's Internationals 2026,0.0,Croatia
+2026-04-10,RC Vannes,Beziers,Pro D2 2026,0.0,France
+2026-04-10,Carcassonne,FC Grenoble,Pro D2 2026,0.0,France
+2026-04-10,US Dax,Soyaux Angouleme,Pro D2 2026,0.0,France
+2026-04-10,Biarritz Olympique,USON Nevers,Pro D2 2026,0.0,France
+2026-04-10,Provence Rugby,Mont-de-Marsan,Pro D2 2026,0.0,France
+2026-04-10,Doncaster Knights,Richmond,English Championship 2026,0.0,England
+2026-04-10,Nottingham,Coventry,English Championship 2026,0.0,England
+2026-04-10,Valence Romans,Colomiers,Pro D2 2026,0.0,France
+2026-04-10,Bath Rugby,Northampton Saints,EPCR Champions Cup 2026,0.0,England
+2026-04-10,Ulster,Stade Rochelais,EPCR Challenge Cup 2026,0.0,Northern Ireland
+2026-04-10,Pampas,Peñarol,Super Rugby Americas 2026,0.0,
+2026-04-11,Moana Pasifika,Chiefs,Super Rugby 2026,0.0,Tonga
+2026-04-11,Toyota Industries Shuttles,NEC Green Rockets,Japan Rugby League One D2 2026,0.0,Japan
+2026-04-11,Hino Red Dolphins,Hanazono Kinetsu Liners,Japan Rugby League One D2 2026,0.0,Japan
+2026-04-11,Fijian Drua,Force,Super Rugby 2026,0.0,Fiji
+2026-04-11,Red Hurricanes Osaka,Shimizu Blue Sharks,Japan Rugby League One D2 2026,0.0,Japan
+2026-04-11,Hurricanes,Blues,Super Rugby 2026,0.0,New Zealand
+2026-04-11,Ukraine,Moldova,Rugby Europe Conference 2026,0.0,"Moldova, Republic of"
+2026-04-11,Queensland Reds,Crusaders,Super Rugby 2026,0.0,Australia
+2026-04-11,Montpellier Herault Rugby Club,Connacht,EPCR Challenge Cup 2026,0.0,France
+2026-04-11,Malta,Israel,Rugby Europe Conference 2026,0.0,Malta
+2026-04-11,Denmark,Czechia,Rugby Europe Trophy 2026,0.0,Denmark
+2026-04-11,Cornish Pirates,Chinnor,English Championship 2026,0.0,England
+2026-04-11,Glasgow Warriors,RC Toulonnais,EPCR Champions Cup 2026,0.0,Scotland
+2026-04-11,Worcester Warriors,Bedford Blues,English Championship 2026,0.0,England
+2026-04-11,London Scottish,Ampthill,English Championship 2026,0.0,England
+2026-04-11,Caldy,Hartpury University RFC,English Championship 2026,0.0,England
+2026-04-11,Cambridge,Ealing Trailfinders,English Championship 2026,0.0,England
+2026-04-11,Leinster,Sale Sharks,EPCR Champions Cup 2026,0.0,Ireland
+2026-04-11,Poland,Sweden,Rugby Europe Trophy 2026,0.0,Poland
+2026-04-11,Oyonnax Rugby,CA Brive,Pro D2 2026,0.0,France
+2026-04-11,Zebre Rugby,Dragons,EPCR Challenge Cup 2026,0.0,Italy
+2026-04-11,New England Free Jacks,Old Glory DC,Major League Rugby 2026,0.0,United States
+2026-04-11,Yacare XV,Dogos,Super Rugby Americas 2026,0.0,
+2026-04-12,Kyushudenryoku Kyuden Voltex,Kamaishi Seawaves,Japan Rugby League One D2 2026,0.0,Japan
+2026-04-12,Benetton Rugby,Exeter Chiefs,EPCR Challenge Cup 2026,0.0,Italy
+2026-04-12,Union Bordeaux-Begles,Stade Toulousain,EPCR Champions Cup 2026,0.0,France
+2026-04-12,Cobras,Selknam,Super Rugby Americas 2026,0.0,
+2026-04-12,Anthem Rugby Carolina,Seattle Seawolves,Major League Rugby 2026,0.0,United States
+2026-04-12,Chicago Hounds,California Legion,Major League Rugby 2026,0.0,United States
+2026-04-13,Capibaras XV,Tarucas,Super Rugby Americas 2026,0.0,
+2026-04-16,Agen,Biarritz Olympique,Pro D2 2026,0.0,France
+2026-04-17,Blues,Highlanders,Super Rugby 2026,0.0,New Zealand
+2026-04-17,NSW Waratahs,Moana Pasifika,Super Rugby 2026,0.0,Australia
+2026-04-17,Mie Honda Heat,Black Rams Tokyo,Japan League One 2026,0.0,Japan
+2026-04-17,Mont-de-Marsan,US Dax,Pro D2 2026,0.0,France
+2026-04-17,USON Nevers,Valence Romans,Pro D2 2026,0.0,France
+2026-04-17,Soyaux Angouleme,RC Vannes,Pro D2 2026,0.0,France
+2026-04-17,Colomiers,Carcassonne,Pro D2 2026,0.0,France
+2026-04-17,Beziers,Provence Rugby,Pro D2 2026,0.0,France
+2026-04-17,CA Brive,Aurillac,Pro D2 2026,0.0,France
+2026-04-17,Edinburgh Rugby,Zebre Rugby,URC 2026,0.0,Scotland
+2026-04-17,Ulster,Leinster,URC 2026,0.0,Northern Ireland
+2026-04-17,Dragons,Bulls,URC 2026,0.0,Wales
+2026-04-17,Bristol Bears,Gloucester Rugby,English Premiership 2026,0.0,England
+2026-04-17,FC Grenoble,Oyonnax Rugby,Pro D2 2026,0.0,France
+2026-04-18,Yokohama Canon Eagles,Urayasu D-Rocks,Japan League One 2026,0.0,Japan
+2026-04-18,Tokyo Sungoliath,Kubota Spears,Japan League One 2026,0.0,Japan
+2026-04-18,Mitsubishi Sagamihara Dynaboars,Toshiba Brave Lupus,Japan League One 2026,0.0,Japan
+2026-04-18,Toyota Verblitz,Kobelco Kobe Steelers,Japan League One 2026,0.0,Japan
+2026-04-18,Shizuoka Blue Revs,Saitama Wild Knights,Japan League One 2026,0.0,Japan
+2026-04-18,Chiefs,Hurricanes,Super Rugby 2026,0.0,New Zealand
+2026-04-18,Brumbies,Fijian Drua,Super Rugby 2026,0.0,Australia
+2026-04-18,Force,Crusaders,Super Rugby 2026,0.0,Australia
+2026-04-18,Stade Rochelais,Union Bordeaux-Begles,Top 14 2026,0.0,France
+2026-04-18,Lions,Glasgow Warriors,URC 2026,0.0,South Africa
+2026-04-18,Leicester Tigers,Newcastle Red Bulls,English Premiership 2026,0.0,England
+2026-04-18,Exeter Chiefs,Northampton Saints,English Premiership 2026,0.0,England
+2026-04-18,Montpellier Herault Rugby Club,USA Perpignan,Top 14 2026,0.0,France
+2026-04-18,ASM Clermont Auvergne,Lyon Olympique Universitaire,Top 14 2026,0.0,France
+2026-04-18,Aviron Bayonnais,Section Paloise,Top 14 2026,0.0,France
+2026-04-18,US Montauban,RC Toulonnais,Top 14 2026,0.0,France
+2026-04-18,Stormers,Connacht,URC 2026,0.0,South Africa
+2026-04-18,Scarlets,Cardiff Rugby,URC 2026,0.0,Wales
+2026-04-18,Bath Rugby,Harlequins,English Premiership 2026,0.0,England
+2026-04-18,Benetton Rugby,Munster,URC 2026,0.0,Italy
+2026-04-18,Ospreys,Sharks,URC 2026,0.0,Wales
+2026-04-18,Castres Olympique,Stade Toulousain,Top 14 2026,0.0,France
