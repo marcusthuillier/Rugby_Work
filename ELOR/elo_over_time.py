@@ -42,9 +42,15 @@ def main():
     history = history.sort_values(["Team", "Date"]).reset_index(drop=True)
 
     history.to_csv(OUT_PATH, index=False)
+
+    last_date = history["Date"].max().date()
+    with open("last_updated.txt", "w") as f:
+        f.write(str(last_date))
+
     print(f"Saved {len(history):,} rows to {OUT_PATH}")
     print(f"Teams covered: {history['Team'].nunique()}")
-    print(f"Date range: {history['Date'].min().date()} to {history['Date'].max().date()}")
+    print(f"Date range: {history['Date'].min().date()} to {last_date}")
+    print(f"Wrote last_updated.txt: {last_date}")
 
 
 if __name__ == "__main__":
