@@ -1,0 +1,36 @@
+userinfo:
+  user: Marcus Thuillier
+
+vid_to_frame:
+  description: "This code takes a match video and breaks it down frame by frame"
+  python_file: "1_vid_to_frame.ipynb"
+  input: "videos"
+  output: "frames_raw"
+  file_name: "Recording 2025-02-14 091310.mp4"
+  parameters:
+    frame_rate: 10
+    frame_count: 0
+    saved_count: 0
+
+field_rotation:
+  description: "This code computes the rotation matrix to adapt the player positions"
+  python_file: '2_field_rotation.ipynb'
+  input: 'frames_raw/*.jpg'
+  output: 'artefact/homography_matrix.pkl'
+  parameters:
+
+image_processing:
+  description: "This code identifies players and the ball position and transposes them to the position on the field"
+  python_file: '3_image_processing.ipynb'
+  input_matrix: 'artefact/homography_matrix.pkl'
+  input_frames: 'frames_raw/*.jpg'
+  output_file: 'data/rugby_detection_raw.csv'
+  output_frames: 'frames_field/field'
+  parameters:
+
+info_postprocess:
+  description: "This code interpretes positions to add additional information such a velocity and fills in missing information between frames"
+  python_file: '4_info_posprocess.ipynb'
+  input: 'data/rugby_detection_raw.csv'
+  output: 'data/rugby_detection.csv'
+  parameters:
