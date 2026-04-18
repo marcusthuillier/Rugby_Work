@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
-DATASETS = os.path.join("..", "ELOR", "Datasets")
+DATASETS = os.path.join("Datasets")
 ELO_CSV         = os.path.join(DATASETS, "ELO.csv")
 RANKINGS_CSV    = os.path.join(DATASETS, "get_rank.csv")
 PERFORMANCE_CSV = os.path.join(DATASETS, "performance.csv")

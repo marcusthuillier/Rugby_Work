@@ -9,7 +9,7 @@ Outputs: upsets.csv
 import pandas as pd
 import os
 
-ELO_PATH = os.path.join("..", "ELOR", "Datasets", "ELO.csv")
+ELO_PATH = os.path.join("Datasets", "ELO.csv")
 OUT_PATH = "upsets.csv"
 
 

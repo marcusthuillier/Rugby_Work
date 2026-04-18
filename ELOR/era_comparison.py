@@ -15,7 +15,7 @@ Outputs: era_rankings.csv  (columns: Era, Rank, Team, Avg_ELO)
 import pandas as pd
 import os
 
-ELO_PATH = os.path.join("..", "ELOR", "Datasets", "ELO.csv")
+ELO_PATH = os.path.join("Datasets", "ELO.csv")
 OUT_PATH = "era_rankings.csv"
 
 ERAS = [

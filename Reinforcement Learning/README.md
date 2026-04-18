@@ -1,0 +1,87 @@
+# Rugby Game Analysis — Computer Vision & RL Pipeline
+
+Six-stage pipeline that processes match video footage into structured game data, labels in-game events, and trains a reinforcement learning actor network for decision classification.
+
+Reference paper: `mitssac-2022-decision-making.pdf`
+
+## Pipeline Stages
+
+| Stage | Notebook | Description |
+|-------|----------|-------------|
+| 1 | `1_vid_to_frame.ipynb` | Extract frames from video at configurable fps |
+| 2 | `2_field_rotation.ipynb` | Compute homography matrix to map camera view to field coordinates |
+| 3 | `3_image_processing.ipynb` | YOLOv8 player/ball detection + K-means jersey colour team assignment |
+| 4 | `4_info_postprocess.ipynb` | Player ID tracking, velocity and possession between frames |
+| 5 | `5_game_viz.ipynb` | Visualise player positions and movements on field diagram |
+| 6 | `6_model_preprocess.ipynb` | Prepare training data from labelled game frames |
+
+## Key Files
+
+| File | Description |
+|------|-------------|
+| `pipeline.py` | End-to-end CLI — train, evaluate, or predict from a single entry point |
+| `config.yaml` | Pipeline configuration (frame rate, paths, model settings) |
+| `yolov8m.pt` | YOLOv8 medium model weights for object detection |
+| `mitssac-2022-decision-making.pdf` | Reference research paper |
+
+## Artefacts (`artefact/`)
+
+| File | Description |
+|------|-------------|
+| `actor_model.pt` | Trained PyTorch actor network |
+| `homography_matrix.pkl` | Field calibration matrix |
+| `homography_train2_rugby.pkl` | Training homography |
+| `homography_eval.pkl` | Evaluation homography |
+
+## Data (`data/`)
+
+| File | Description |
+|------|-------------|
+| `rugby_detection.csv` | Processed detection data (player positions, teams, ball) |
+| `rugby_detection_raw.csv` | Raw frame-level detections before post-processing |
+
+## Execution Order
+
+You can either run the **full pipeline via CLI** (recommended) or work through the **notebooks step by step**.
+
+### Option A — Full pipeline CLI (recommended)
+
+**Step 1 — Train a model on a match video:**
+```bash
+python pipeline.py --video videos/match.mp4
+```
+Runs all 6 stages end-to-end. Outputs trained `artefact/actor_model.pt` and detection data in `data/`.
+
+**Step 2 — Evaluate on a new video:**
+```bash
+python pipeline.py --evaluate videos/match2.mp4
+```
+Outputs a confusion matrix showing Pass / Carry / Kick classification accuracy.
+
+**Step 3 — Predict action from a single frame:**
+```bash
+python pipeline.py --predict image.jpg
+```
+
+### Option B — Run notebooks in order
+
+Work through each notebook sequentially. Each stage depends on outputs from the previous one.
+
+| Order | Notebook | Input | Output |
+|-------|----------|-------|--------|
+| 1 | `1_vid_to_frame.ipynb` | `videos/match.mp4` | `frames_raw/` |
+| 2 | `2_field_rotation.ipynb` | `frames_raw/` | `artefact/homography_matrix.pkl` |
+| 3 | `3_image_processing.ipynb` | `frames_raw/`, homography | `frames_field/`, player detections |
+| 4 | `4_info_postprocess.ipynb` | Player detections | `data/rugby_detection.csv` |
+| 5 | `5_game_viz.ipynb` | `data/rugby_detection.csv` | Field position visualisations |
+| 6 | `6_model_preprocess.ipynb` | `data/rugby_detection.csv` | Training data for actor network |
+
+## How It Works
+
+1. Frames extracted from video at 10 fps
+2. Field homography computed to normalise camera angle to field coordinates
+3. YOLOv8 detects all players and the ball each frame
+4. K-means on jersey RGB values auto-assigns team membership (no manual labelling)
+5. Player IDs persist across frames; velocity and possession computed between detections
+6. Events labelled: Pass / Carry / Kick / Try / Turnover
+7. Rewards assigned to events and used to train a PyTorch actor network (200 epochs)

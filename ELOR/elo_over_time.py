@@ -8,7 +8,7 @@ Outputs: elo_history.csv  (columns: Date, Year, Team, ELO)
 import pandas as pd
 import os
 
-ELO_PATH = os.path.join("..", "ELOR", "Datasets", "ELO.csv")
+ELO_PATH = os.path.join("Datasets", "ELO.csv")
 OUT_PATH = "elo_history.csv"
 
 DATE_FORMATS = ["%m/%d/%Y", "%d/%m/%Y", "%d %b %Y", "%Y-%m-%d"]

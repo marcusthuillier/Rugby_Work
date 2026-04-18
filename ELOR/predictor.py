@@ -16,7 +16,7 @@ import math
 import os
 import pandas as pd
 
-RANKINGS_PATH = os.path.join("..", "ELOR", "Datasets", "get_rank.csv")
+RANKINGS_PATH = os.path.join("Datasets", "get_rank.csv")
 HOME_ADVANTAGE = 75  # ELO points, same as functions.py
 
 
