@@ -94,6 +94,12 @@ FEATURE_COLS = [
     "rankings_weight",
     "home_experience",
     "away_experience",
+    "home_rest_days",
+    "away_rest_days",
+    "home_margin_form_5",
+    "away_margin_form_5",
+    "home_home_form_5",
+    "away_away_form_5",
 ]
 
 TARGET = "home_win"

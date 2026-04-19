@@ -21,3 +21,20 @@ ELOR/Datasets/ELO_save.csv
 # Source data files (download manually)
 Betting Model/rugby_union.xlsx
 Betting Model/super_rugby_raw.xlsx
+
+# Removed/superseded scripts and artefacts (kept locally, not tracked)
+Betting Model/model.py
+Betting Model/model_xgb.json
+Betting Model/model_lr.pkl
+Betting Model/calibrator.pkl
+Betting Model/model_eval.csv
+Betting Model/fetch_odds.py
+Betting Model/build_comparison_dataset.py
+Betting Model/comparison_dashboard.py
+Betting Model/comparison_dataset.csv
+Betting Model/spread_model.py
+Betting Model/spread_model.json
+Betting Model/spread_predictions.csv
+Betting Model/spread_summary.csv
+ELOR/Datasets/fixtures_api.csv
+ELOR/Datasets/results.csv
