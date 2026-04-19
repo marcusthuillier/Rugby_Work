@@ -29,9 +29,9 @@ OUT_PATH = "odds_raw.csv"
 DATE_COLS     = ["date"]
 HOME_COLS     = ["home team", "home"]
 AWAY_COLS     = ["away team", "away"]
-HOME_ODD_COLS = ["odds home", "home win", "h odds", "1", "home_odds", "oddsw1"]
-DRAW_ODD_COLS = ["odds draw", "draw", "x odds", "draw odds", "oddsx"]
-AWAY_ODD_COLS = ["odds away", "away win", "a odds", "2", "away_odds", "oddsw2"]
+HOME_ODD_COLS = ["home odds", "odds home", "home win", "h odds", "1", "home_odds", "oddsw1"]
+DRAW_ODD_COLS = ["draw odds", "odds draw", "draw", "x odds", "oddsx"]
+AWAY_ODD_COLS = ["away odds", "odds away", "away win", "a odds", "2", "away_odds", "oddsw2"]
 
 
 def find_col(df_cols: list[str], candidates: list[str]) -> str | None:
@@ -68,7 +68,12 @@ Steps to get it:
     all_rows = []
 
     for sheet in xl.sheet_names:
-        df = xl.parse(sheet)
+        # Try header=1 first (aussportsbetting uses row 0 for meta, row 1 for headers)
+        df_try = xl.parse(sheet, header=1)
+        if "Date" in df_try.columns or "date" in [c.lower() for c in df_try.columns]:
+            df = df_try
+        else:
+            df = xl.parse(sheet)
         df.columns = [str(c).strip() for c in df.columns]
         cols = df.columns.tolist()
         cols_lower = [c.lower() for c in cols]
