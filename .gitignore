@@ -1,0 +1,23 @@
+# Reinforcement Learning raw frames and large model files
+Reinforcement Learning/frames_raw/
+Reinforcement Learning/videos/
+Reinforcement Learning/artefact/
+Reinforcement Learning/yolov8m.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints and temp notebooks
+.ipynb_checkpoints/
+*_executed.ipynb
+
+# Local backups and temp files
+ELOR/Datasets/fixtures_backup.csv
+ELOR/Datasets/fixtures_pre_github_merge.csv
+ELOR/Datasets/ELO_save.csv
+
+# Source data files (download manually)
+Betting Model/rugby_union.xlsx
+Betting Model/super_rugby_raw.xlsx
