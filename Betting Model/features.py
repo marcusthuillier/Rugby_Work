@@ -178,6 +178,7 @@ def main():
             competition_name, venue_country = meta_lookup[meta_key]
             rankings_weight = competition_weight(competition_name)
         else:
+            competition_name = ""
             rankings_weight = 0.5
             venue_country = ""
 
@@ -198,6 +199,7 @@ def main():
             "Year":              year,
             "Home_Team":         home,
             "Away_Team":         away,
+            "Competition":       competition_name,
             "Home_Score":        int(row["Home_Score"]),
             "Away_Score":        int(row["Away_Score"]),
             "pre_home_elo":      round(pre_home_elo, 1),

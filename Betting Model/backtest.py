@@ -42,6 +42,44 @@ warnings.filterwarnings("ignore")
 
 FEATURES_PATH = "features.csv"
 
+# Competitions to EXCLUDE from the test set.
+# Everything not matching these is treated as top-tier (or unknown = include).
+# This targets the lower-tier noise that expanded into ELO.csv from 2024 onwards.
+LOWER_TIER_KEYWORDS = [
+    "pro d2",
+    "european nations cup",
+    "english championship",
+    "rugby europe",
+    "americas rugby championship",
+    "world rugby pacific challenge",
+    "asia rugby",
+    "africa cup",
+    "currie cup",
+    "npc",
+    "bunnings warehouse",
+    "japan league one d2",
+    "japan rugby league one d2",
+    "mitre 10",
+    "north america caribbean",
+    "premiership rugby cup",
+    "epcr challenge cup",
+    "challenge cup",
+    "super series",
+    "world rugby americas",
+    "caribbean",
+    "iberdrola",
+    "qualifying",
+]
+
+
+def is_top_tier(competition) -> bool:
+    """Return True if competition is top-tier or unlabelled (include by default)."""
+    if not competition or not isinstance(competition, str) or not competition.strip():
+        return True   # unlabelled = historical international data, include it
+    c = competition.lower()
+    return not any(kw in c for kw in LOWER_TIER_KEYWORDS)
+
+
 FEATURE_COLS = [
     "elo_diff",
     "home_prob_elo",
@@ -144,19 +182,41 @@ def main():
     parser.add_argument("--end",       type=int,   default=2025)
     parser.add_argument("--threshold", type=float, default=0.55)
     parser.add_argument("--stake",     type=float, default=1.0)
+    parser.add_argument("--top-tier",  action="store_true", default=True,
+                        help="Test only on top-tier competitions (train on all). Default: on.")
+    parser.add_argument("--all-comps", action="store_true", default=False,
+                        help="Override --top-tier to test on all competitions.")
     args = parser.parse_args()
+    filter_comps = args.top_tier and not args.all_comps
 
     print("Loading features.csv...")
     full = pd.read_csv(FEATURES_PATH, parse_dates=["Date"])
     full = full.dropna(subset=FEATURE_COLS + [TARGET])
     full[FEATURE_COLS] = full[FEATURE_COLS].astype(float)
 
+    if filter_comps:
+        if "Competition" not in full.columns:
+            print("WARNING: Competition column missing from features.csv — re-run features.py first.")
+            filter_comps = False
+        else:
+            n_before = len(full)
+            full["_top_tier"] = full["Competition"].apply(is_top_tier)
+            top_tier_idx = full["_top_tier"]
+            print(f"Top-tier filter: {top_tier_idx.sum():,} / {n_before:,} games in scope for testing")
+            comp_counts = full[top_tier_idx]["Competition"].value_counts().head(15)
+            print(comp_counts.to_string())
+
     all_preds    = []
     year_summary = []
 
     for test_year in range(args.start, args.end + 1):
+        # Train on ALL competitions for that year range (broader signal)
         train = full[full["Year"] < test_year]
-        test  = full[full["Year"] == test_year]
+        # Test only on top-tier if filter is active
+        if filter_comps:
+            test = full[(full["Year"] == test_year) & full["_top_tier"]]
+        else:
+            test = full[full["Year"] == test_year]
 
         if len(train) < 500 or len(test) == 0:
             continue
